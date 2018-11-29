@@ -13,6 +13,8 @@ group :production do
   gem 'pg'
 end
 
+gem 'mini_magick', '4.8.0'
+
 # Picture uploads
 gem 'carrierwave'
 # Use Puma as the app server
