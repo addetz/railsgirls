@@ -15,6 +15,7 @@ end
 
 gem 'mini_magick', '4.8.0'
 gem 'devise'
+gem 'gravtastic'
 
 
 # Picture uploads
