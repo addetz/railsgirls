@@ -14,6 +14,8 @@ group :production do
 end
 
 gem 'mini_magick', '4.8.0'
+gem 'devise'
+
 
 # Picture uploads
 gem 'carrierwave'
